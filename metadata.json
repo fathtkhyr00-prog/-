@@ -1,0 +1,7 @@
+{
+  "name": "نظام إدارة المحلات التجارية المتكامل | Multi-Store ERP & POS",
+  "description": "نظام مركزي متكامل لإدارة 3 محلات تجارية (بقالة، منظفات، حلويات ومستورد) بنظام نقاط بيع POS ومخازن ومشتريات وورديات وتقارير مالية وتكامل ذكاء اصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
